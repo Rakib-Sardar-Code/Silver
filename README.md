@@ -25,3 +25,5 @@ Safari on iOS * 3.2 - 17.2 Supported.
 
 Samsung Internet. 4 - 22 Supported.
 ```
+
+If you already have installed VS Code then you don't need to download and setup. but if you don't have installed already then down from This site was built using [GitHub Pages](https://pages.github.com/)
