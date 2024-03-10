@@ -1,7 +1,7 @@
 # Why use Silver
 
 When I start learning game development. I confused that which library is best for HTML5 game development I tried Pixi js, Phaser js and more. I'm looking for a simple framework that do my work easily I'm not doing any complex work just creating a simple game. And then I found HTML5 canvas, but it's not actually used for game development. WebGL or WebGL2 is used for game development because WebGL have many features that help developer to create games. But I tried to create game development framework using HTML5 canvas API.
-# introduction
+# setup environment
 **requirements**:
 
 -code editor : you can use any code editor for it.(recommend : VS Code)
@@ -28,4 +28,12 @@ Samsung Internet. 4 - 22 Supported.
 
 If you already have installed VS Code then you don't need to download and setup. but if you don't have installed already then download [VS Code](https://code.visualstudio.com/download).
 and then after download, follow some online instructions to setup vs code.
+*if you use any other code editor then don't worry you can do all this thing's there.
+we recommending you VS Code, because VS Code is powerful code editor, and it give us many extension that help us when we coding. ok you can learn more about vs code from online.
+
+# Let's started
+
+create a folder. then open this folder in vs code,
+- create a file naming "index.html"
+- create another file naming "main.js"
 
