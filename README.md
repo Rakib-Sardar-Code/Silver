@@ -10,16 +10,19 @@ When I start learning game development. I confused that which library is best fo
 
 ```
 Chrome. 4 - 121 Supported. 123 - 125 Supported.
-
+-
 Edge * 12 - 120 Supported.
-
+-
 Safari. 3.1 - 3.2. See notes: 4 - 17.2 Supported.
-
+-
 Firefox. 2 - 3.5. See notes: 3.6 - 122 Supported.
-
-Opera. 10 - 105 Supported.\n
+-
+Opera. 10 - 105 Supported.
+-
 IE. 6 - 8 supported. 9 - 10 Supported.
+-
 Safari on iOS * 3.2 - 17.2 Supported.
+-
 Samsung Internet. 4 - 22 Supported.
 ```
 
