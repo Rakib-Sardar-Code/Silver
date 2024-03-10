@@ -4,7 +4,9 @@ When I start learning game development. I confused that which library is best fo
 # introduction
 **requirements**:
 -code editor : you can use any code editor for it.(recommend : VS Code)
+
 -browser : use any browser, but care about this
+
 ```
 Chrome. 4 - 121 Supported. 123 - 125 Supported.
 Edge * 12 - 120 Supported.
