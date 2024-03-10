@@ -17,13 +17,12 @@ Safari. 3.1 - 3.2. See notes: 4 - 17.2 Supported.
 
 Firefox. 2 - 3.5. See notes: 3.6 - 122 Supported.
 
-Opera. 10 - 105 Supported.
-
+Opera. 10 - 105 Supported.\n
 IE. 6 - 8 supported. 9 - 10 Supported.
-
 Safari on iOS * 3.2 - 17.2 Supported.
-
 Samsung Internet. 4 - 22 Supported.
 ```
 
 If you already have installed VS Code then you don't need to download and setup. but if you don't have installed already then download [VS Code](https://code.visualstudio.com/download).
+and then after download, follow some online instructions to setup vs code.
+
