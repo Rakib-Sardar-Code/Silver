@@ -103,3 +103,16 @@ update()
 
 ```
 now you can show a beautiful red color rectangle drawn on top-left corner of scene.
+
+let's try to understand what we have did here.
+
+- we stored our Cube class in box variable. Cube class use for drawing rectangle.
+- Cube class take 6 parameters
+- 1. x axis of rectangle
+- 2. y axis of rectangle
+- 3. width of rectangle
+- 4. height of rectangle
+- 5. rotation of rectangle
+- 6. color of rectangle
+- in the update function we write [ box.load() ] to draw our rectangle on scene.
+note : box variable just store our rectangle's data, and draw method able you to draw it on screen.
