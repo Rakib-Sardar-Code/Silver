@@ -60,7 +60,7 @@ write this code in your "index.html" file
 </html>
 
 ```
-### be carefull when you linking your javascript file first of all you need to link our "silver.js" file
+### be carefull when you linking your javascript file first of all you need to link our "silver.js" file.
 and after writing "index.html" you need to do something with "main.js"
 write this code in your "main.js" file
 ---main.js---
@@ -83,3 +83,23 @@ first of all we need to create a scene, where we will draw many shape and sprite
 - scene.MKflex() method move your scene( HTML5 Canvas Element ) to top-left corner.
  
 ## Draw some shapes
+
+write this code in "main.js", don't worry. we will explain it after writing code
+---main.js---
+```
+var scene = new Scene(SCREEN.fit());
+scene.solidShader("skyblue");
+scene.Scrolloff();
+scene.MKflex();
+
+var box = new Cube(0,0,50,50,0,"red");
+
+function update(){
+frame(update);
+box.load();
+
+}
+update()
+
+```
+now you can show a beautiful red color rectangle drawn on top-left corner of scene.
