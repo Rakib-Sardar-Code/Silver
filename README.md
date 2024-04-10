@@ -1,6 +1,29 @@
 # Why use Silver
 
 When I start learning game development. I confused that which library is best for HTML5 game development I tried Pixi js, Phaser js and more. I'm looking for a simple framework that do my work easily I'm not doing any complex work just creating a simple game. And then I found HTML5 canvas, but it's not actually used for game development. WebGL or WebGL2 is used for game development because WebGL have many features that help developer to create games. But I tried to create game development framework using HTML5 canvas API.
+# Features List
+1. draw shape like cube, sphere, image, spritesheet, cylinder, border box...
+2. moveable shapes
+3. image changing animation, spritesheet animation, sprite line animation...
+4. Flame particles, Angles Particles...
+5. AI pathfinding
+6. inline physics
+7. any type of collision
+8. AABB collision SAT collision
+9. Custom Vertices Component
+10. tilemap
+11. lookAt
+12. car beheviour
+13. layer (z-index or z-order)
+14. raycasting
+15. dragable componets
+16. controll like keyboard and mouse
+17. simple web-utility
+18. talking
+19. linker
+20. text
+21. Camera (for explorable world)
+
 # Setup environment
 **Requirements**:
 
